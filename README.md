@@ -18,6 +18,11 @@ La aplicación está organizada en tres capas principales::
 
 ---
 
+## Diagrama arquitectura
+![Diagrama de arquitectura](images/diagram.png)
+
+---
+
 ## 1. Presentación (Ui Layer)
 
 Responsable de la interfaz de usuario y la interacción con el usuario. Se compone de los siguientes paquetes:
